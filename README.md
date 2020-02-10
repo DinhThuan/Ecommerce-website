@@ -3,7 +3,7 @@
 # technology used :
 1. BE : Spring, springBoot, springSecurity
 2. MySQL
-3. FE: Reactjs
+3. FE: Reactjs, Redux, dva ...
 4. Theme: ant design
 #Library in project
 1.BE:
