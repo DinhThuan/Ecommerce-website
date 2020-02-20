@@ -1,15 +1,15 @@
 package com.ecommerce.study.entities;
 
-public class User {
+public class Student {
 	private int id;
 	private String fullName;
 	private String username;
 	private String password;
-	public User() {
+	public Student() {
 		super();
 	}
 	
-	public User(int id, String fullName, String username, String password) {
+	public Student(int id, String fullName, String username, String password) {
 		super();
 		this.id = id;
 		this.fullName = fullName;
