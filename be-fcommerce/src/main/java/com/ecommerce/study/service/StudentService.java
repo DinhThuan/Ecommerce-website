@@ -1,5 +1,9 @@
 package com.ecommerce.study.service;
 
+import com.ecommerce.study.entities.Student;
+
+import java.util.List;
+
 public interface StudentService {
     public int insertStudent(Student student);
     public int updateStudent(Student student);

@@ -41,6 +41,12 @@ public class Student {
 	public void setPassword(String password) {
 		this.password = password;
 	}
+
+    @Override
+    public String toString() {
+        return getClass().getName() + "[" + "id = " + id + ", name = " + name + ", branch = " + branch
+                + ", percentage = " + percentage  + ", phone = " + phone  + ", email = " + email + "]";
+    }
 	
 	
 }

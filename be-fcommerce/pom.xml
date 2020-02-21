@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.ecommerce.demo</groupId>
 	<artifactId>BE-Ecommerce</artifactId>
+
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BE-Ecommerce</name>
 	<description>Project ecommerce</description>
